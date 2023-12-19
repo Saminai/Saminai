@@ -19,7 +19,7 @@
 
  <br><br><br>
 
-<h2 align="center">💻 &nbsp; Tech Stack</h2>
+<h2 align="center">👨‍💻 Tech Stack</h2>
 <div align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="Sass" title="Sass"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
@@ -36,10 +36,15 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
   <img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 </div>
-
-<h4 align="center">Next I want to learn:</h4>
+ <br>
+<h4 align="center">🔍 Next I want to learn:</h4>
 <p align="center">
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" alt="Angular" title="Angular"/>
   OR
   <img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 </p>
+
+ <br><br><br>
+
+<h2 align="center">🔥 My best projects:</h2>
+<p align="center">I'm working on it!</p>
