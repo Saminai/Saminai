@@ -11,8 +11,8 @@
 
 
 <p align="center">
-  Welcome to my lil corner of the GitHub universe, where self-taught is burning her keyboard to embrace black magic of coding. And that's how I create some intrasing projects which you can check here! <br>
-  I am ambitious, cheerful and motivated to work in this field until the end! Open to new ideas and technologies... And I promise not to spill my coffee on the keyboard (at least not too often). ☕💻
+  Welcome to my lil corner of the GitHub universe, where self-taught is burning her keyboard to embrace black magic of coding and that's how I create some intrasing projects which you can check here! <br>
+  Open to new ideas and technologies... I am ambitious, cheerful and motivated to work in this field until the end! Also I am a coffee lover! ☕💻
   <br> <br>
   #SelfTaught #CodingTillTheEnd #NeverStopLearning 🌟
 </p>
